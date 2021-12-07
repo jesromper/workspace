@@ -1,0 +1,21 @@
+{
+  "name": "contacs",
+  "version": "1.0.0",
+  "description": "Api contacs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jesromper/contacts-fis2021.git"
+      },
+      "homepage": "https://github.com/jesromper/contacts-fis2021",
+
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jess",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
